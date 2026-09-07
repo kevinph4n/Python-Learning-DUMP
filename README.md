@@ -66,6 +66,8 @@ The structure and content may evolve over time as new topics, exercises, algorit
 
 > Learn → Take notes → Implement → Solve problems → Repeat.
 
+---
+
 ## Disclaimer
 
 This is a personal learning repository. Some implementations, notes, or explanations may contain mistakes, incomplete approaches, or overly simplified explanations.
