@@ -1,9 +1,10 @@
 # Python-Learning-DUMP
 
-![Python Programming](https://img.shields.io/badge/Python%20Programming-3776AB?style=flat-square)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-4B8BBE?style=flat-square)
-![Algorithms](https://img.shields.io/badge/Algorithms-F9A825?style=flat-square)
-![Mini Projects](https://img.shields.io/badge/Mini%20Projects-6A1B9A?style=flat-square)
+[![Python Programming](https://img.shields.io/badge/Python%20Programming-Learning-6A0DAD?logo=python)](https://www.python.org/)
+[![Computer Science](https://img.shields.io/badge/Computer%20Science-Learning-003B73)](https://www.acm.org/)
+[![Data Structures](https://img.shields.io/badge/Data%20Structures-Learning-2563EB)](https://en.wikipedia.org/wiki/Data_structure)
+[![Algorithms](https://img.shields.io/badge/Algorithms-Learning-F59E0B)](https://en.wikipedia.org/wiki/Algorithm)
+[![Mini Projects](https://img.shields.io/badge/Mini%20Projects-Practice-16A34A)](https://github.com/)
 
 A personal learning repository documenting my journey from **Python fundamentals to intermediate-level concepts**, with a focus on programming, problem solving, and computer science fundamentals.
 
