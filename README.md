@@ -6,6 +6,8 @@
 
 A personal learning repository documenting my journey from **Python fundamentals to intermediate-level concepts**, with a focus on programming, problem solving, and computer science fundamentals.
 
+---
+
 ## What's Inside
 
 This repository contains notes, exercises, implementations, and problem-solving practice covering:
@@ -15,7 +17,6 @@ This repository contains notes, exercises, implementations, and problem-solving 
   - Data types and control flow
   - Functions and modules
   - Object-oriented programming
-  - File I/O
   - Exceptions and error handling
   - Other Python concepts as I progress
 
@@ -33,7 +34,12 @@ This repository contains notes, exercises, implementations, and problem-solving 
   - Algorithmic challenges
   - Practical coding exercises
 
+- **Other Python concepts as I progress**
+
+
 Most of the learning notes and implementations are documented as **Jupyter Notebooks (`.ipynb`)**, keeping concepts, code, experiments, and explanations together.
+
+---
 
 ## Sources
 
@@ -48,7 +54,9 @@ The materials in this repository are collected and adapted from a variety of lea
 - Programming problem platforms
 - Personal experimentation and implementation
 
-This repository is **not intended to reproduce any single course or resource**. It serves as a personal knowledge base where concepts from different sources are organized, practiced, and implemented.
+> This repository is **not intended to reproduce any single course or resource**. It serves as a personal knowledge base where concepts from different sources are organized, practiced, and implemented.
+
+---
 
 ## Learning Progress
 
